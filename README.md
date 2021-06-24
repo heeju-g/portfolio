@@ -37,7 +37,7 @@
 >Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
 >H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
 >  
->[프로젝트 상세 설명](https://github.com/Integerous/) 참고
+>[프로젝트 상세 설명](https://github.com) 참고
 
 
 
