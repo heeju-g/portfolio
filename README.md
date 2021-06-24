@@ -15,7 +15,7 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [Pet Diary](https://github.com/Integerous/petDiary)
+### 1. [Pet Diary](https://github.com/heeju-g/2021.05.07_PetDiary_mybatis_servlet)
 >반려동물과 함께하는 삶에 필요한 기능을 모은 웹사이트 (팀 프로젝트)  
 >개발 기간: 2021.04.12 ~ 2021.05.07
 >  
@@ -23,7 +23,7 @@
 >Java 9 / Servlet / MyBatis / Spring Data JPA / QueryDSL  
 >H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
 >  
->[프로젝트 상세 설명](https://github.com/Integerous/petDairy) 참고
+>[프로젝트 상세 설명](https://github.com/heeju-g/2021.05.07_PetDiary_mybatis_servlet) 참고
 
 ---
 
