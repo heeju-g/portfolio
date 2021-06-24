@@ -21,8 +21,9 @@
 >개발 기간: 2021.04.12 ~ 2021.05.07
 >  
 >기술 스택:  
->Java 9 / Servlet / MyBatis / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+>Java 9 / Python 3.9
+>Servlet / MyBatis / Oracle 11 
+>javascript / html/css
 >  
 >[프로젝트 상세 설명](https://github.com/heeju-g/2021.05.07_PetDiary_mybatis_servlet) 참고
 
