@@ -21,8 +21,8 @@
 >개발 기간: 2021.04.12 ~ 2021.05.07
 >  
 >기술 스택:  
->Java 9 / Python 3.9
->Servlet / MyBatis / Oracle 11 
+>Java 9 / Python 3.9   
+>Servlet / MyBatis / Oracle 11    
 >javascript / html/css
 >  
 >[프로젝트 상세 설명](https://github.com/heeju-g/2021.05.07_PetDiary_mybatis_servlet) 참고
