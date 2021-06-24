@@ -1,6 +1,5 @@
-# 심희주 포트폴리오    
-웹 포트폴리오 링크 :  [Click](https://mmm11271227.wixsite.com/dev2021)
->'Why'를 생각하는 개발자 되기   
+# 심희주 포트폴리오  (웹 포트폴리오 링크 :  [Click](https://mmm11271227.wixsite.com/dev2021))
+>## 'Why'를 생각하는 개발자 되기   
 
 
 </br>
