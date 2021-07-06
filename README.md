@@ -22,7 +22,7 @@
 >개발 기간: 2021.04.12 ~ 2021.05.07
 >  
 >기술 스택:  
-><img src="https://img.shields.io/badge/9-Java-red"/>&nbsp<img src="https://img.shields.io/badge/11-Oracle-yellow"/>&nbsp<img src="https://img.shields.io/badge/html/css-orange"/>&nbsp<img src="https://img.shields.io/badge/javascript-d95f6e"/>&nbsp<img src="https://img.shields.io/badge/3.9-Python-3766AB"/>&nbsp<img src="https://img.shields.io/badge/MongoDB-green"/>&nbsp<img src="https://img.shields.io/badge/Git-grey"/>&nbsp   
+><p><img src="https://img.shields.io/badge/9-Java-red"/>&nbsp<img src="https://img.shields.io/badge/11-Oracle-yellow"/>&nbsp<img src="https://img.shields.io/badge/html/css-orange"/>&nbsp<img src="https://img.shields.io/badge/javascript-d95f6e"/>&nbsp<img src="https://img.shields.io/badge/3.9-Python-3766AB"/>&nbsp<img src="https://img.shields.io/badge/Git-grey"/>&nbsp</p>   
 >  
 >[프로젝트 상세 설명](https://github.com/heeju-g/2021.05.07_PetDiary_mybatis_servlet) 참고
 
