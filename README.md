@@ -17,26 +17,25 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [Pet Diary](https://github.com/heeju-g/2021.05.07_PetDiary_mybatis_servlet)
+### 1. [Pet Diary](https://github.com/heeju-g/PetDiary_jsp_servlet)
 >반려동물과 함께하는 삶에 필요한 기능 및 정보를 제공하는 웹사이트 (팀 프로젝트)  
 >개발 기간: 2021.04.12 ~ 2021.05.07
 >  
 >기술 스택:  
 ><p><img src="https://img.shields.io/badge/9-Java-red"/>&nbsp<img src="https://img.shields.io/badge/11-Oracle-yellow"/>&nbsp<img src="https://img.shields.io/badge/html/css-orange"/>&nbsp<img src="https://img.shields.io/badge/javascript-d95f6e"/>&nbsp<img src="https://img.shields.io/badge/3.9-Python-3766AB"/>&nbsp<img src="https://img.shields.io/badge/Git-grey"/>&nbsp</p>   
 >  
->[프로젝트 상세 설명](https://github.com/heeju-g/2021.05.07_PetDiary_mybatis_servlet) 참고
+>[프로젝트 상세 설명](https://github.com/heeju-g/PetDiary_jsp_servlet) 참고
 
 ---
 
-### 2. [두 번째 프로젝트]()
->두 번째 프로젝트 간략 소개  (팀 프로젝트)  
->개발 기간: 2020.7.18 ~ 2020.11.5  
+### 2. [OnedayTwoday](https://github.com/heeju-g/OnedayTwoday_spring)
+>원데이 클래스, 상품을 제공하는 웹사이트  (팀 프로젝트)  
+>개발 기간: 2021.06.28 ~ 2021.08.01  
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+><p><img src="https://img.shields.io/badge/11-Java-red"/>&nbsp<img src="https://img.shields.io/badge/11-Oracle-yellow"/>&nbsp<img src="https://img.shields.io/badge/html/css-orange"/>&nbsp<img src="https://img.shields.io/badge/5.8.1-Spring-green"/>&nbsp<img src="https://img.shields.io/badge/javascript-d95f6e"/>&nbsp<img src="https://img.shields.io/badge/3.9-Python-3766AB"/>&nbsp<img src="https://img.shields.io/badge/Git-grey"/>&nbsp</p>   
 >  
->[프로젝트 상세 설명](https://github.com) 참고
+>[프로젝트 상세 설명](https://github.com/heeju-g/OnedayTwoday_spring) 참고
 
 
 
