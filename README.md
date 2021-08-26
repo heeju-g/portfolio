@@ -6,7 +6,7 @@
 </br>
 
 ## :pushpin: Intro
-(여기에 자기 소개)
+사용자에게 필요한 서비스를 구현하고 싶은 개발자, 심희주입니다.
 
 </br>
 
@@ -33,7 +33,7 @@
 >개발 기간: 2021.06.28 ~ 2021.08.01  
 >  
 >기술 스택:  
-><p><img src="https://img.shields.io/badge/11-Java-red"/>&nbsp<img src="https://img.shields.io/badge/11-Oracle-yellow"/>&nbsp<img src="https://img.shields.io/badge/html/css-orange"/>&nbsp<img src="https://img.shields.io/badge/5.8.1-Spring-green"/>&nbsp<img src="https://img.shields.io/badge/javascript-d95f6e"/>&nbsp<img src="https://img.shields.io/badge/3.9-Python-3766AB"/>&nbsp<img src="https://img.shields.io/badge/Git-grey"/>&nbsp</p>   
+><p><img src="https://img.shields.io/badge/11-Java-red"/>&nbsp<img src="https://img.shields.io/badge/11-Oracle-yellow"/>&nbsp<img src="https://img.shields.io/badge/html/css-orange"/>&nbsp<img src="https://img.shields.io/badge/5.8.1-Spring-green"/>&nbsp<img src="https://img.shields.io/badge/javascript-d95f6e"/>&nbsp<img src="https://img.shields.io/badge/Git-grey"/>&nbsp</p>   
 >  
 >[프로젝트 상세 설명](https://github.com/heeju-g/OnedayTwoday_spring) 참고
 
